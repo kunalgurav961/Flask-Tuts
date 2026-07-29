@@ -14,5 +14,12 @@ def about():
 def contact():
     return render_template("contact.html")
 
+@app.route('/parameters')
+def parms():
+    return render_template("parameters.html")
+
+@app.route('/parameters/<string:name>')
+def getName(name):
+    return render_template("parameters.html", myname=name)
 
 app.run(debug=True)
