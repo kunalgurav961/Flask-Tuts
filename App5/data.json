@@ -1,0 +1,32 @@
+[
+    {
+        "name": "kunal",
+        "email": "kunal@gmail.com",
+        "message": "hello"
+    },
+    {
+        "name": "Disha",
+        "email": "kunal@gmail.com",
+        "message": "hello"
+    },
+    {
+        "name": "Vaishnavi",
+        "email": "vaishnavi@gmail.com",
+        "nickname": "Mau"
+    },
+    {
+        "name": "Vaishnavi",
+        "email": "vaishnavi@gmail.com",
+        "nickname": "Mau"
+    },
+    {
+        "name": "Vaishnavi",
+        "email": "vaishnavi1@gmail.com",
+        "nickname": "Mau"
+    },
+    {
+        "name": "Vaishnavi",
+        "email": "vaishnavi1234@gmail.com",
+        "nickname": "Mau"
+    }
+]
